@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hey, I'm Seif Ibrahim 👋
+
+### 💻 Computer Science Student | Learning • Building • Growing
+
+I'm a Computer Science student at **Shorouk Academy**, currently exploring programming, software development, and the world of technology.
+
+I'm at the beginning of my journey, learning the fundamentals, building projects, and improving one step at a time.
+
+---
+
+Thanks for stopping by! ⭐
 
 <!--
 **SeifIbrahim-Dev/SeifIbrahim-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
