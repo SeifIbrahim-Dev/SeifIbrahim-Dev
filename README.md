@@ -16,6 +16,15 @@ More to come... 🚀
 
 ---
 
+## 🎯 Goals
+
+- Build meaningful projects
+- Explore different areas of Computer Science
+- Build a strong portfolio
+- Keep learning and improving
+
+---
+
 ## 🛠️ Tools & Technologies
 
 Currently exploring and learning what interests me in Computer Science.
