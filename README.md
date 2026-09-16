@@ -8,6 +8,30 @@ I'm at the beginning of my journey, learning the fundamentals, building projects
 
 ---
 
+## 🌱 Currently Learning
+
+I'm just getting started with Computer Science and exploring different areas of programming and technology.
+
+More to come... 🚀
+
+---
+
+## 🛠️ Tools & Technologies
+
+Currently exploring and learning what interests me in Computer Science.
+
+This section will grow as I learn new technologies.
+
+---
+
+## 📌 Projects
+
+I'm currently working toward my first projects.
+
+More coming soon... 👀
+
+---
+
 Thanks for stopping by! ⭐
 
 <!--
